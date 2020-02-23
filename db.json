@@ -1,0 +1,104 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "name": "Barking gecko",
+            "category": "Khaki"
+        },
+        {
+            "id": 2,
+            "name": "Mule deer",
+            "category": "Goldenrod"
+        },
+        {
+            "id": 3,
+            "name": "Tamandua, southern",
+            "category": "Teal"
+        },
+        {
+            "id": 4,
+            "name": "Lizard, goanna",
+            "category": "Mauv"
+        },
+        {
+            "id": 5,
+            "name": "Glider, sugar",
+            "category": "Purple"
+        },
+        {
+            "id": 6,
+            "name": "Llama",
+            "category": "Blue"
+        },
+        {
+            "id": 7,
+            "name": "Cardinal, red-capped",
+            "category": "Teal"
+        },
+        {
+            "id": 8,
+            "name": "Pied crow",
+            "category": "Crimson"
+        },
+        {
+            "id": 9,
+            "name": "Lizard, goanna",
+            "category": "Puce"
+        },
+        {
+            "id": 10,
+            "name": "Cobra, cape",
+            "category": "Crimson"
+        },
+        {
+            "id": 11,
+            "name": "Fox, cape",
+            "category": "Maroon"
+        },
+        {
+            "id": 12,
+            "name": "Square-lipped rhinoceros",
+            "category": "Goldenrod"
+        },
+        {
+            "id": 13,
+            "name": "Spider, wolf",
+            "category": "Pink"
+        },
+        {
+            "id": 14,
+            "name": "African porcupine",
+            "category": "Goldenrod"
+        },
+        {
+            "id": 15,
+            "name": "Lion, african",
+            "category": "Aquamarine"
+        },
+        {
+            "id": 16,
+            "name": "Common waterbuck",
+            "category": "Fuscia"
+        },
+        {
+            "id": 17,
+            "name": "Eastern white pelican",
+            "category": "Teal"
+        },
+        {
+            "id": 18,
+            "name": "Indian tree pie",
+            "category": "Khaki"
+        },
+        {
+            "id": 19,
+            "name": "Eastern dwarf mongoose",
+            "category": "Yellow"
+        },
+        {
+            "id": 20,
+            "name": "Cape wild cat",
+            "category": "Crimson"
+        }
+    ]
+}
